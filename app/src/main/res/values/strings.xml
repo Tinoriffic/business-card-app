@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="stellar_tempo_website">stellartempo.com</string>
+    <string name="phone_number">+1 (774) 274-6269</string>
+    <string name="instagram_handle">\@stellartempo</string>
+    <string name="email_address">info@stellartempo.com</string>
+</resources>
